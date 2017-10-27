@@ -1,0 +1,17 @@
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    padding: 40px;
+    font-family: arial;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 800;
+    font-size: 25px;
+    color: #BE4545;
+}
+
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
