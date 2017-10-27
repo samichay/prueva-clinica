@@ -1,0 +1,10 @@
+.btn-sexi{
+	padding: 1em 2em;
+	background: #2c3e50;
+	border: none;
+	color: white;
+	border-radius: 10px;
+}
+.btn-sexi:hover{
+	background: #34495e;
+}
