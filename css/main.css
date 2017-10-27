@@ -1,0 +1,9 @@
+.boton{
+color: green;
+background: rgba(6, 238, 238, 0.33);
+
+border-radius: 10px;
+}
+.boton:hover{
+    background: rgba(249, 253, 0, 0.84)
+    }
